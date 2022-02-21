@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Clang 12.0.0 x86_64-apple-darwin19.6.0",
+    "compilers": {
+      "C": "/usr/bin/clang",
+      "CXX": "/usr/bin/clang++"
+    }
+  },
+  {
+    "name": "GCC 11.2.0 x86_64-apple-darwin19",
+    "compilers": {
+      "C": "/usr/local/bin/x86_64-apple-darwin19-gcc-11.2.0",
+      "CXX": "/usr/local/bin/x86_64-apple-darwin19-g++-11"
+    }
+  },
+  {
+    "name": "clang+llvm 13.0.0 x86_64-apple-darwin",
+    "compilers": {
+      "C": "/Users/shiretu/Downloads/clang+llvm-13.0.0-x86_64-apple-darwin/bin/clang",
+      "CXX": "/Users/shiretu/Downloads/clang+llvm-13.0.0-x86_64-apple-darwin/bin/clang++"
+    }
+  },
+  {
+    "name": "homebrew lldb 13",
+    "compilers": {
+      "C": "/usr/local/opt/llvm/bin/clang",
+      "CXX": "/usr/local/opt/llvm/bin/clang++"
+    }
+  }
+]
